@@ -23,19 +23,21 @@
 <br>
 
 <p>Here, the user types <code>85 ➕ 10</code>, and the result is displayed when the <code>=</code> button is pressed. </p>
+<p>For the given input <code>85 ➕ 10</code>, the answer will be <code>95</code>.</p>
+
 
 <div style="text-align:center;">
     <img  src="https://github.com/user-attachments/assets/6662eea5-f9a7-4225-8a3d-70ac9c48eee3" alt="🧮 Calculator App Example" style="width: 200px; height: auto;">
 </div>
 
-<h2>💻 Key Code Features :</h2>
+<h2>💻 Key Code Features :-</h2>
 <ul>
     <li> The 🖥️ interface is built using  Tkinter’s <code>🔘 Button</code>, <code>📝 Entry</code>, and <code>📐 Grid</code> layout tools.</li>
     <li> ⚙️ Buttons trigger actions that update the 🖥️ display.</li>
     <li>  Built-in checks make sure calculations are accurate. </li>
 </ul>
 
-<h2>📂 Steps to Run :</h2>
+<h2>📂 Steps to Run :-</h2>
 <ol>
     <li>📥 Download or clone this project to your 💻 computer.</li>
     <li>✅ Make sure you have  Python installed (version 3.x is best).</li>
@@ -44,4 +46,8 @@
     <pre><code>🐍 python calculator.py</code></pre>
     <li>The 🧮 app will open, and you can start using it. </li>
 </ol>
+
+## 🙏 Thanks  
+Thank you for checking out this project! Your feedback and suggestions are always welcome. If you find this helpful, consider giving it a ⭐ on GitHub. 😊  
+
 
